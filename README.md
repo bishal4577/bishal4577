@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-## Just finished my first major milestone in frontend development! After diving deep into the fundamentals of HTML5, CSS3, and JavaScript, I’ve successfully tackled the DOM (Document Object Model) to bring logic to life.
-## To put these skills to the test, I built a Dice Player Game—a fully functional, interactive demo that handles state and real-time UI updates. This project marks the bridge between 'learning' and 'building.'
-# Feeling motivated and ready to take on more complex challenges. Onward to the next project! 
+Just finished my first major milestone in frontend development! After diving deep into the fundamentals of HTML5, CSS3, and JavaScript, I’ve successfully tackled the DOM (Document Object Model) to bring logic to life.
+To put these skills to the test, I built a Dice Player Game—a fully functional, interactive demo that handles state and real-time UI updates. This project marks the bridge between 'learning' and 'building.'
+Feeling motivated and ready to take on more complex challenges. Onward to the next project! 
 
 <!--
 **bishal4577/bishal4577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
